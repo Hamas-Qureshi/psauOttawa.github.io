@@ -106,8 +106,8 @@ h1::after
     
 }
 
-team {
-  border-radius: 50%;
+#team img {
+    border-radius: 50%;
 }
 
 /*-------get in touch--------*/
