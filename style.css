@@ -115,7 +115,7 @@ h1::after
 #contact
 {
     background: #FAF0E6;
-    padding-top: 170px;
+    padding-top: 15px;
     padding-bottom: 170px;
     color: #777
 }
@@ -124,6 +124,7 @@ h1::after
 .contact-form
 {
     padding: 15px;
+    margin-top: 2px;
 }
 
 .form-control
@@ -141,6 +142,6 @@ h1::after
 .follow
 {
     background: #fff;
-        padding: 10px;
-        margin: 15px;
+        padding: 5px;
+        margin: 32px;
 }
