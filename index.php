@@ -9,7 +9,7 @@
                     "User Email: $visitor_email.\n".
                     "User message: $message.\n";
 
-    $email_from = "hammas0400@gmail.com";
+    $email_from = "psa.ottawau@gmail.com";
                     
     $to = "psa.ottawau@gmail.com";
 
