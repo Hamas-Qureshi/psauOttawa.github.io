@@ -9,9 +9,9 @@
                     "User Email: $visitor_email.\n".
                     "User message: $message.\n";
 
-    $email_from = "psa.ottawau@gmail.com";
+    $email_from = "hammas0400@gmail.com";
                     
-    $to = "psa.ottawau@gmail.com";
+    $to = "info@psa.uottawa.com";
 
     $headers = "From : $email_from \r\n";
 
