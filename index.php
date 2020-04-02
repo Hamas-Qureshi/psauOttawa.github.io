@@ -224,7 +224,7 @@
         <h1> Get in Touch </h1>
           <div class = "row">  
           <div class="col-md-6">
-            <form class="contact-form" method= "post" action="index.php"> </form>
+            <form class="contact-form"> </form>
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Your name">
               </div>
